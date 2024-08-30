@@ -1,0 +1,17 @@
+UI_EN = {
+
+--UI_FAV
+UI_FAV_Test = "TESTING"
+UI_FAV_Cured = "You have Successfully Recovered from the Zombie Virus"
+UI_FAV_Extract = "Attempt to Extract DNA"
+
+UI_FAV_PERFECT = "A Vaccine for the zombie virus, provides considerable resistance to the zombie virus"
+UI_FAV_NORMAL = "A Vaccine for the zombie virus, provides good resistance to the zombie virus"
+UI_FAV_CRUDE = "A Crude Vaccine for the zombie virus, provides some immunity"
+UI_FAV_BOILED = "Zombie Cells boiled for safety, provides some natural immunity"
+UI_FAV_CELLS = "Zombie Cells, why would I want these?"
+UI_FAV_SYRINGE = "An Empty Syringe, can store water. Cook the Filled Syringe for testing purposes"
+UI_FAV_DIRTY_SYRINGE = "A Dirty Syringe, it has been used by somebody"
+UI_FAV_WATER_SYRINGE = "A Syringe filled with water, used to test failed vaccines"
+UI_FAV_TEST_SYRINGE = "A Syringe filled with blood, used for testing infection status"
+}

@@ -1,0 +1,20 @@
+Sanbox_EN = {
+
+Sandbox_SimpleVaccinesPlus = "SimpleVaccinesPlus",
+
+Sandbox_SimpleVaccinesPlus_InstantInfectionOff = "Disable instant Curing",
+Sandbox_SimpleVaccinesPlus_InstantInfectionOff_tooltip = "If you check this box, the vaccine will not cure zombification if taken after infection",
+
+Sandbox_SimpleVaccinesPlus_BoiledZombieCellsEffectiveness = "Effectiveness Boiled Zombie Cells",
+Sandbox_SimpleVaccinesPlus_BoiledZombieCellsEffectiveness_tooltip = "Adjust the effectiveness of the Boiled Zombie Cells Vaccine. Number equals percentage chance of succesfully curing zombification"
+
+Sandbox_SimpleVaccinesPlus_CrudeVaccineEffectiveness = "Effectiveness Crude Vaccine"
+Sandbox_SimpleVaccinesPlus_CrudeVaccineEffectiveness_tooltip = "Adjust the effectiveness of the Crude Zombie Vaccine. Number equals percentage chance of succesfully curing zombification"
+
+Sandbox_SimpleVaccinesPlus_SimpleVaccineEffectiveness = "Effectiveness Simple Vaccine"
+Sandbox_SimpleVaccinesPlus_SimpleVaccineEffectiveness_tooltip = "Adjust the effectiveness of the Simple Zombie Vaccine. Number equals percentage chance of succesfully curing zombification"
+
+Sandbox_SimpleVaccinesPlus_PerfectVaccineEffectiveness = "Effectiveness Perfect Vaccine"
+Sandbox_SimpleVaccinesPlus_PerfectVaccineEffectiveness_tooltip = "Adjust the effectiveness of the Perfect Zombie Vaccine. Number equals percentage chance of succesfully curing zombification"
+
+}

@@ -1,0 +1,58 @@
+VERSION = 1,
+
+option SimpleVaccinesPlus.InstantInfectionOff
+{
+	type = boolean,
+	default = false,
+
+	page = SimpleVaccinesPlus,
+	translation = SimpleVaccinesPlus_InstantInfectionOff,
+}
+
+option SimpleVaccinesPlus.BoiledZombieCellsEffectiveness
+{
+	type = integer,
+	min = 1,
+	max = 40,
+	default = 15,
+
+	page = SimpleVaccinesPlus,
+	translation = SimpleVaccinesPlus_BoiledZombieCellsEffectiveness,
+	valueTranslation = SimpleVaccinesPlus_BoiledZombieCellsEffectiveness,
+}
+
+option SimpleVaccinesPlus.CrudeVaccineEffectiveness
+{
+	type = integer,
+	min = 1,
+	max = 60,
+	default = 35,
+
+	page = SimpleVaccinesPlus,
+	translation = SimpleVaccinesPlus_CrudeVaccineEffectiveness,
+	valueTranslation = SimpleVaccinesPlus_CrudeVaccineEffectiveness,
+}
+
+option SimpleVaccinesPlus.SimpleVaccineEffectiveness
+{
+	type = integer,
+	min = 1,
+	max = 80,
+	default = 60,
+
+	page = SimpleVaccinesPlus,
+	translation = SimpleVaccinesPlus_SimpleVaccineEffectiveness,
+	valueTranslation = SimpleVaccinesPlus_SimpleVaccineEffectiveness,
+}
+
+option SimpleVaccinesPlus.PerfectVaccineEffectiveness
+{
+	type = integer,
+	min = 1,
+	max = 100,
+	default = 100,
+
+	page = SimpleVaccinesPlus,
+	translation = SimpleVaccinesPlus_PerfectVaccineEffectiveness,
+	valuetTranslation = SimpleVaccinesPlus_PerfectVaccineEffectiveness,
+}
